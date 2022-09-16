@@ -4,7 +4,7 @@ int main()
 int i;
 for(i=100; i<=200; ++i)
 {
-printf("%d",i);
+printf("%d,");
 }
 return 0;
 }
